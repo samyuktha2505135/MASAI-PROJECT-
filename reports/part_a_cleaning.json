@@ -1,0 +1,25 @@
+{
+  "removed_exact_duplicates": 119,
+  "removed_older_order_versions": 656,
+  "remaining_orders": 12309,
+  "reconstructed_order_amounts": 112,
+  "negative_delivery_values_removed_after_deduplication": 105,
+  "completed_delivery_values_imputed": 774,
+  "completed_count": 11110,
+  "cancelled_count": 1199,
+  "completed_revenue_inr": 2998668.8,
+  "city_counts": {
+    "Pune": 227,
+    "Delhi": 210,
+    "Bengaluru": 197,
+    "Chennai": 191,
+    "Hyderabad": 191,
+    "Mumbai": 184
+  },
+  "gender_counts": {
+    "female": 610,
+    "male": 560,
+    "unknown": 30
+  },
+  "customers_age_imputed": 1200
+}
